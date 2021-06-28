@@ -11,6 +11,6 @@ La resistencia para el diodo es de 220 Ohmios, la del botón de es 10K Ohmios.
 
 
 
+https://user-images.githubusercontent.com/42980510/123662810-18bff900-d836-11eb-8988-f64c0428763f.mp4
 
-https://user-images.githubusercontent.com/42980510/123662613-edd5a500-d835-11eb-9f5a-a9808de7e8cb.mp4
 
